@@ -1,0 +1,4 @@
+AKM GRAFFITI WARS
+Version: Final Telegram Mini App package
+Base: supplied AKM TAG v8.24 / v8.26 character studio
+Map: preserved without geometry/layout changes

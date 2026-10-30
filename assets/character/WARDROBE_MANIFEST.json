@@ -1,0 +1,60 @@
+{
+  "model": "assets/akm_street_character.glb",
+  "rig": [
+    "root",
+    "hips",
+    "spine",
+    "chest",
+    "neck",
+    "head",
+    "shoulder.L",
+    "elbow.L",
+    "wrist.L",
+    "shoulder.R",
+    "elbow.R",
+    "wrist.R",
+    "hip.L",
+    "knee.L",
+    "ankle.L",
+    "hip.R",
+    "knee.R",
+    "ankle.R"
+  ],
+  "groups": {
+    "hoodie": [
+      "hoodie_body",
+      "hoodie_hood",
+      "hoodie_zip",
+      "hoodie_pocket"
+    ],
+    "bomber": [
+      "alt_bomber_body",
+      "alt_bomber_panel"
+    ],
+    "puffer": [
+      "alt_puffer_quilt"
+    ],
+    "pants": [
+      "pants_L_leg",
+      "pants_R_leg",
+      "pants_L_cargo",
+      "pants_R_cargo"
+    ],
+    "shoes": [
+      "shoes_L_upper",
+      "shoes_R_upper",
+      "shoes_L_sole",
+      "shoes_R_sole"
+    ],
+    "accessories": [
+      "accessory_chain",
+      "accessory_pendant"
+    ],
+    "headwear": [
+      "hat_cap",
+      "hat_brim"
+    ]
+  },
+  "skin": true,
+  "texture": "assets/akm_fabric_atlas.png"
+}

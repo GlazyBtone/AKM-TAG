@@ -1,0 +1,16 @@
+{
+  "name": "AKM GRAFFITI WARS",
+  "short_name": "AKM TAG",
+  "description": "Уличная RPG и граффити-студия AKM",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09080d",
+  "theme_color": "#09080d",
+  "categories": [
+    "games",
+    "entertainment"
+  ]
+}
